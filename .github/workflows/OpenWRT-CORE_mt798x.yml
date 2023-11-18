@@ -1,5 +1,5 @@
 #云编译公用核心
-name: OWRT-CORE
+name: OpenWRT-CORE_mt798x
 
 on:
   workflow_call:
