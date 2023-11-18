@@ -15,7 +15,7 @@ permissions: write-all
 jobs:
   owrt_config:
     #调用公用编译核心OWRT-CORE.yml
-    uses: ./.github/workflows/OWRT-CORE_mt798x.yml
+    uses: ./.github/workflows/OpenWRT-CORE_mt798x.yml
     with:
       #编译平台
       OWRT_TARGET: Mediatek
