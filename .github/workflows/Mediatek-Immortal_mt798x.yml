@@ -30,4 +30,4 @@ jobs:
       #默认源码
       OWRT_URL: https://github.com/immortalwrt/immortalwrt.git
       #默认分支
-      OWRT_BRANCH: openwrt-21.02
+      OWRT_BRANCH: master
